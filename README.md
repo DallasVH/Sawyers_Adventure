@@ -6,5 +6,3 @@ Sawyer's Adventure is a first person adventure game that a team of game designer
 We were on the local news! https://www.kbtx.com/2021/07/08/tamu-digital-visualization-class-partners-with-scottys-house-boost-its-efforts/
 
 Preview Link: https://dallasjvh.wixsite.com/portfolio/copy-of-projects
-
-
